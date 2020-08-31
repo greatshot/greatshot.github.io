@@ -1,15 +1,12 @@
 body {
-    background-color: rgb(28, 28, 201);
+    background-color: rgb(236, 128, 85);
 }    
 
 h1 {
-    background-color: slateblue;
     color: aquamarine;
     text-align: center;
-    border: 5px greenyellow;
     margin: 20px;
-    
-
+    padding: 2px;
 }
 
 h2 {
@@ -21,4 +18,7 @@ h2 {
 div {
     margin: 20px;
     border: 5 px saddlebrown;
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
