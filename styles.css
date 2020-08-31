@@ -1,6 +1,11 @@
+body {
+    background-color: rgb(28, 28, 201);
+}    
+
 h1 {
     color: aquamarine;
     text-align: center;
+    border: 5px greenyellow;
 }
 
 h2 {
@@ -8,6 +13,6 @@ h2 {
     text-align: center;
 }
 
-body {
-    background-color: rgb(28, 28, 201);
-}    
+div {
+    margin: 20px;
+}
