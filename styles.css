@@ -3,16 +3,22 @@ body {
 }    
 
 h1 {
+    background-color: slateblue;
     color: aquamarine;
     text-align: center;
     border: 5px greenyellow;
+    margin: 20px;
+    
+
 }
 
 h2 {
     color: darkgreen;
     text-align: center;
+    padding: 2px;
 }
 
 div {
     margin: 20px;
+    border: 5 px saddlebrown;
 }
