@@ -6,7 +6,7 @@
 
 @media (max-width: 599px) {
     body {
-        background-color: rgb(78, 78, 226);
+        background-color: rgb(64, 64, 148);
     }    
 }
 
@@ -18,7 +18,7 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1:hover {
-    color: fuchsia;
+    color: rgb(243, 63, 168);
     font-family: fantasy;
 }
 
