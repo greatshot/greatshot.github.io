@@ -15,9 +15,11 @@ h1 {
     text-align: center;
     margin: 20px;
     padding: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1:hover {
-    color: fuchsia
+    color: fuchsia;
+    font-family: fantasy;
 }
 
 h2 {
@@ -26,7 +28,8 @@ h2 {
     padding: 2px;
 }
 h2:hover {
-    color: lightseagreen
+    color: lightseagreen;
+    font-family: cursive;
 }
 
 div {
