@@ -1,6 +1,14 @@
-body {
-    background-color: rgb(236, 128, 85);
-}    
+@media (min-width: 600px) {
+    body {
+        background-color: rgb(236, 128, 85);
+    }    
+}
+
+@media (max-width 599px) {
+    body {
+        background-color: rgb(78, 78, 226);
+    }    
+}
 
 h1 {
     color: aquamarine;
@@ -8,11 +16,17 @@ h1 {
     margin: 20px;
     padding: 2px;
 }
+h1:hover {
+    color: fuchsia
+}
 
 h2 {
     color: darkgreen;
     text-align: center;
     padding: 2px;
+}
+h2:hover {
+    color: lightseagreen
 }
 
 div {
