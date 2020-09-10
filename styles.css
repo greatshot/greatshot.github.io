@@ -10,6 +10,12 @@
     }    
 }
 
+#firstTry {
+
+    color: #7aaaf3;
+    text-shadow: 2px 2px 5px rgb(73, 121, 3);
+}
+
 h1 {
     color: aquamarine;
     text-align: center;
